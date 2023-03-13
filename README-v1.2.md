@@ -4,5 +4,5 @@
 "Link": "tg://join?invite=KSu3u3VgNr0wMDk0",
 "Color": "#FFEB3B",
 "Button": "عضویت رایگان در کانال VIP",
-"Show": "on"
+"Show": "off"
 }
