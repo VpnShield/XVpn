@@ -4,5 +4,5 @@
 "Link": "tg://join?invite=Pe51C2A6qsM0MjU8",
 "Color": "#FFEB3B",
 "Button": "عضویت اختیاری",
-"Show": "on"
+"Show": "off"
 }
