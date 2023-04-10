@@ -4,5 +4,5 @@
 "Link": "tg://resolve?domain=Vpn_Shield",
 "Color": "#00E5FF",
 "Button": "عضویت اجباری",
-"Show": "on"
+"Show": "off"
 }
