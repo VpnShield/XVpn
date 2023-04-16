@@ -4,5 +4,5 @@
 "Link": "tg://join?invite=Islixein1itjMDc0",
 "Color": "#64DD17",
 "Button": "بازدید از کانال",
-"Show": "on"
+"Show": "off"
 }
