@@ -4,5 +4,5 @@
 "Link": "tg://join?invite=ciKQ3DUGV604ZjY0",
 "Color": "#FFEB3B",
 "Button": "شرکت در نظرسنجی",
-"Show": "on"
+"Show": "off"
 }
