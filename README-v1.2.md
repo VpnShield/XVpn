@@ -4,5 +4,5 @@
 "Link": "tg://join?invite=xZ7u2XAj4jdiMGY0",
 "Color": "#18FFFF",
 "Button": "عضویت در کانال",
-"Show": "on"
+"Show": "off"
 }
