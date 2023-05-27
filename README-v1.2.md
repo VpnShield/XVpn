@@ -1,10 +1,10 @@
 {
-"Title": "❌   پروکسی تلگرام   ❌",
-"Description": "● اگه میخوای تلگرامت پرسرعت بشه بیا تو کانال و پروکسی اختصاصی اینترنتتو بگیر ؛ چون عضومون کمه سرعت عالیه 👇🏻",
-"Link": "tg://join?invite=7yV51enBxr45MDk0",
-"ColorWave": "#00E5FF",
-"Color": "#00e5ff",
-"ColorWaveTwo": "#00B8D4",
+"Title": "فورییییی جنگ شدهههههههه انگاااری 🫣😩😭",
+"Description": "- اقا خبر داغه لب مرز جنگ شده ایران و طالبان کلی کشته دادیم بیا ببین چه خبره غوغا شده این حمله طالبان 😐",
+"Link": "tg://join?invite=Mqo3uAkTmNZiNmU0",
+"ColorWave": "#FFFF00",
+"Color": "#ffff00",
+"ColorWaveTwo": "#FFFF8D",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -17,7 +17,7 @@
 "Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": " عضویت فوری ",
+"Button": " مشاهده اخبار لحظه ای ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
