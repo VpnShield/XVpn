@@ -20,5 +20,5 @@
 "Button": " دانلود فیلترشکن اینستا ",
 "ButtonCancell": " ممنون ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
