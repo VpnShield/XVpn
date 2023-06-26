@@ -1,10 +1,10 @@
 {
-"Title": "عضو کانال پروکسی استارلینک بشید 🔥",
-"Description": "اینم هدیه ایلان ماسک به ایرانیا ، 3 عدد پروکسی اپراتورهای مختلف متصل به اینترنت استارلینک ، تا 2 ماه دیگه متصله 😍👇🏻",
-"Link": "tg://join?invite=JEOOn69-ybc4NWZi",
-"ColorWave": "#00E676",
-"Color": "#00E676",
-"ColorWaveTwo": "#69F0AE",
+"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
+"Description": "از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه خودمون با اینجا وصلیم 👇🏻",
+"Link": "tg://join?invite=v2Y8tjhZclQxMDdk",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01201027",
-"ShowTime": "3",
-"Button": " اتصال فوری ",
+"MessageID": "293771001",
+"ShowTime": "2",
+"Button": " دانلوود فیلترشکن بدون قطعی ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
